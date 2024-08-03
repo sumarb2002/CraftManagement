@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../dashboard"
+		},
+		{
+			"path": "../exxx"
+		},
+		{
+			"path": "../img"
+		},
+		{
+			"path": "../mail"
+		},
+		{
+			"path": "../sendmail"
+		},
+		{
+			"path": "../suma"
+		},
+		{
+			"path": "../webalizer"
+		},
+		{
+			"path": "../xampp"
+		}
+	]
+}
